@@ -37,7 +37,7 @@ a local service rather than through an external provider, which is the same
 constraint the rest of my work is aimed at. Built over six days in November
 2025.
 
-**[Wave Terminal fork](https://github.com/AlexKlim/waveterm)** - I built an Excalidraw diagram editor into Wave Terminal, an open source terminal with around 21,000 stars on GitHub, as a native block with its own wsh command, and replaced its hardcoded keyboard shortcuts with a configurable keybinding system defined in keybindings.json. Around 2400 lines across Go and TypeScript, with tests. Both changes are proposed upstream.
+**[Wave Terminal fork](https://github.com/AlexKlim/waveterm)** - I built an Excalidraw diagram editor into Wave Terminal, an open source terminal with around 21,000 stars on GitHub, as a native block with its own wsh command, and replaced its hardcoded keyboard shortcuts with a configurable keybinding system defined in keybindings.json. Around 2400 lines across Go and TypeScript, with tests.
 
 **[memorizable](https://github.com/AlexKlim/memorizable)** - a command line
 tool, published on npm, that captures AI-assisted coding sessions and keeps
