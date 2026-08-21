@@ -31,7 +31,31 @@ review standard and of its development workflow.
 
 ### Things I build on my own
 
-**[Jiterka](https://github.com/AlexKlim/Jiterka)** - Jiterka - a prototype desktop application that records a meeting, transcribes it, separates the speakers, cleans up the transcript and produces a summary. Speaker diarization runs as a local service rather than through an external provider, which is the same constraint the rest of my work is aimed at. Built over six days in November 2025.
+**[Jiterka](https://github.com/AlexKlim/Jiterka)** - a prototype desktop
+application that records a meeting, transcribes it, separates the speakers,
+cleans up the transcript and produces a summary. Speaker diarization runs as
+a local service rather than through an external provider, which is the same
+constraint the rest of my work is aimed at. Built over six days in November
+2025.
+
+**[Wave Terminal fork](https://github.com/AlexKlim/waveterm)** - I built an
+Excalidraw diagram editor into Wave Terminal, an open source terminal, as a
+native block with its own `wsh` command, and replaced its hardcoded keyboard
+shortcuts with a configurable keybinding system defined in
+`keybindings.json`. Around 2400 lines across Go and TypeScript, with tests.
+
+**[memorizable](https://github.com/AlexKlim/memorizable)** - a command line
+tool, published on npm, that captures AI-assisted coding sessions and keeps
+a running summary of what was decided and why. The same idea as Jiterka
+applied to a different kind of conversation: knowledge that is produced in
+passing and then lost.
+
+### Longer running
+
+**[allcollate](https://github.com/AlexKlim/allcollate)** - a hotel price
+comparison service I have been building with a friend since 2020. Ruby on
+Rails, React, PostgreSQL, on AWS. It collects hotel data and pricing
+statistics and puts them side by side.
 
 ### Writing
 
