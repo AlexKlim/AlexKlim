@@ -49,8 +49,6 @@ a running summary of what was decided and why. The same idea as Jiterka
 applied to a different kind of conversation: knowledge that is produced in
 passing and then lost.
 
-### Longer running
-
 **[allcollate](https://github.com/AlexKlim/allcollate)** - a hotel price comparison service I built with a friend from 2020. Ruby on Rails, React, PostgreSQL, Elasticsearch, on AWS. It imported hotel listings and kept their price history, so you could tell whether today's price was actually a good one. I no longer host it, but it still runs from the repository.
 
 ### Writing
