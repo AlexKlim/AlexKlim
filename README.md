@@ -21,13 +21,12 @@ a half years at Craft.co, a United States supply chain intelligence company,
 where I joined as the second engineer and built the data platform the
 product runs on.
 
-### Where most of my code is
+### A note on what is not here
 
-Most of what I write and review sits in private company repositories, so it
-does not show up here as source. What it looks like in numbers instead: I
-have submitted reviews on more than a thousand pull requests in Jitera's
-repositories since February 2024, and I am the author of the company's code
-review standard and of its development workflow.
+The code I write and review at work is in private repositories, so none of
+it appears on this page as source. Since February 2024 I have reviewed more
+than a thousand pull requests in Jitera's repositories, and I wrote the
+company's code review standard and its development workflow.
 
 ### Things I build on my own
 
