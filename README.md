@@ -31,12 +31,7 @@ review standard and of its development workflow.
 
 ### Things I build on my own
 
-**[Jiterka](https://github.com/AlexKlim/Jiterka)** - a desktop application
-that records a meeting, transcribes it, separates the speakers, cleans up
-the transcript and produces a summary. Speaker diarization runs as a local
-service rather than through an external provider, which is the same
-constraint the rest of my work is aimed at. Built over six days in November
-2025.
+**[Jiterka](https://github.com/AlexKlim/Jiterka)** - Jiterka - a prototype desktop application that records a meeting, transcribes it, separates the speakers, cleans up the transcript and produces a summary. Speaker diarization runs as a local service rather than through an external provider, which is the same constraint the rest of my work is aimed at. Built over six days in November 2025.
 
 ### Writing
 
