@@ -51,10 +51,7 @@ passing and then lost.
 
 ### Longer running
 
-**[allcollate](https://github.com/AlexKlim/allcollate)** - a hotel price
-comparison service I have been building with a friend since 2020. Ruby on
-Rails, React, PostgreSQL, on AWS. It collects hotel data and pricing
-statistics and puts them side by side.
+**[allcollate](https://github.com/AlexKlim/allcollate)** - a hotel price comparison service I built with a friend from 2020. Ruby on Rails, React, PostgreSQL, Elasticsearch, on AWS. It imported hotel listings and kept their price history, so you could tell whether today's price was actually a good one. I no longer host it, but it still runs from the repository.
 
 ### Writing
 
