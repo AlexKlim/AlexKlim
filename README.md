@@ -41,7 +41,7 @@ constraint the rest of my work is aimed at. Built the first phase over six days 
 
 **[memorizable](https://github.com/AlexKlim/memorizable)** - a command line
 tool, published on npm, that captures AI-assisted coding sessions and keeps
-a running summary of what was decided and why. The same idea as Jiterka
+a running summary of what was decided and why. The same idea as LocalMinutes
 applied to a different kind of conversation: knowledge that is produced in
 passing and then lost.
 
