@@ -30,7 +30,7 @@ company's code review standard and its development workflow.
 
 ### Things I build on my own
 
-**[Jiterka](https://github.com/AlexKlim/Jiterka)** - a prototype desktop
+**[LocalMinutes](https://github.com/AlexKlim/LocalMinutes)** - a prototype desktop
 application that records a meeting, transcribes it, separates the speakers,
 cleans up the transcript and produces a summary. Speaker diarization runs as
 a local service rather than through an external provider, which is the same
